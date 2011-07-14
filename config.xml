@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.hello.world"
+	id		= "com.phonegap.DMS"
 	version 	= "1.0.0">
 
-	<name>Hello World Test</name>
+	<name>DMS</name>
 
 	<description>
-		Very basic test app
+		The DMS team's mobile application suite. Currently just provides access to the Standard Operating Procedures.
 	</description>
 
 	<author>
@@ -23,7 +23,4 @@
 
 	<icon src="icon.png" gap:role="default" />
 
-
-	<!-- sample preference specification -->
-	<!-- <preference name="autorotate" value="false" readonly="true"/> -->
 </widget>
